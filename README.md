@@ -13,3 +13,7 @@ Hi I'm Nan from China. Now I live with my family in Hamburg Germany. I'm now on 
 - knit
 - Crochet
 - Fitness
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichanNan)](https://github.com/anuraghazra/github-readme-stats)
