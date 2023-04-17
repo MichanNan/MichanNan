@@ -2,13 +2,14 @@
 
 [E-Mail](caonanla@gmail.com)
 
-## Wer bin ich?
+## Who am I?
 
-Hi ich bin Nan und komme aus China. Nun wohne ich mit meiner Famielie zusammen in Hamburg. Ich bin jetzt auf dem Weg, eine Web Developerin zu werden!🚀
+Hi I'm Nan from China. Now I live with my family in Hamburg Germany. I'm now on my way to becoming a web developer!🚀
 
 ![Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
 
-## Was ich im Alltag machen gerne?
-- strickeln
-- Häkeln
+## My Hobby
+
+- knit
+- Crochet
 - Fitness
