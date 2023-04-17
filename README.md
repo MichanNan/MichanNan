@@ -8,3 +8,7 @@ Hi ich bin Nan und komme aus China. Nun wohne ich mit meiner Famielie zusammen i
 
 ![Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
 
+## Was ich im Alltag machen gerne?
+- strickeln
+- Häkeln
+- Fitness
