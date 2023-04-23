@@ -3,8 +3,7 @@
 [E-Mail](caonanla@gmail.com)
 
 ## Who am I?
-
-Hi I'm Nan from China. Now I live with my family in Hamburg Germany. I'm now on my way to becoming a web developer!🚀
+Hi I'm Nan from China. Now I live with my family in Hamburg Germany. I'm on my way to becoming a web developer!🚀
 
 ![Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
 
