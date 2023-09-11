@@ -1,6 +1,6 @@
 # Hi I am Nan, ✨
 
-I am a junior frontedn develoer, live with my family in Hamburg Germany. I just completed my bootcamp at neue fische, but i will never stop learning.
+I am a junior frontend developer, live with my family in Hamburg Germany. I just completed my bootcamp at neue fische, but i will never stop learning.
 
 ![Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
 
